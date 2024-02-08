@@ -33,3 +33,15 @@ Open Start Project :
          lance le serveur web local de Symfony pour le développement, permettant l'accès à l'application via un navigateur web.
     }
 
+Bootstrap:
+    - npm install bootstrap --save-dev {
+        Commande pour installer bootstrap
+    }
+
+Importation de JavaScript Bootstrap :
+    - npm install jquery @popperjs/core --save-dev {
+        Permet d'utiliser bootstrap dans les fichiers javascript
+    }
+
+
+
