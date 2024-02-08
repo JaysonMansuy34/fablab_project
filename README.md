@@ -33,4 +33,3 @@ Open Start Project :
          lance le serveur web local de Symfony pour le développement, permettant l'accès à l'application via un navigateur web.
     }
 
-Commit Initial Create Server:
